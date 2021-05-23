@@ -4,7 +4,7 @@
 ## This is my Pokedex <img class="emojidex-emoji" src="https://cdn.emojidex.com/emoji/seal/Pokebola.png" emoji-code="Pokebola" alt="Pokebola" width="40" height="40"/>
 
 ### App details
-- To visualization the site you need click [**Here**](https://pokedex-five-weld.vercel.app/). 
+- To visualization the app you need click [**Here**](https://pokedex-five-weld.vercel.app/). 
 > #### Desktop Behavior![Desktop Behavior](https://github.com/Alex-dll/Pokedex/blob/master/src/assets/desktop%20View.gif?raw=true)
 
 >#### Mobile Behavior
