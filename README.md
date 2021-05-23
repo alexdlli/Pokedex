@@ -51,7 +51,7 @@ Start the server
 > - vue-infinite-loading
 >  - vue-cli
 - Axios
-- 
+
 
 
 
