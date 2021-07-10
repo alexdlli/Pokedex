@@ -9,7 +9,7 @@
 
 #### Mobile Behavior
 <div align="center">
-  ![Mobile View.gif](https://github.com/Alex-dll/Pokedex/blob/master/src/assets/Mobile%20View.gif?raw=true)
+  <img src="https://github.com/Alex-dll/Pokedex/blob/master/src/assets/Mobile%20View.gif?raw=true" />
 </div>
 
 ## Run Locally
