@@ -8,7 +8,9 @@
 > #### Desktop Behavior![Desktop Behavior](https://github.com/Alex-dll/Pokedex/blob/master/src/assets/desktop%20View.gif?raw=true)
 
 >#### Mobile Behavior
-> ![Mobile View.gif](https://github.com/Alex-dll/Pokedex/blob/master/src/assets/Mobile%20View.gif?raw=true)
+> <div aligh=center>
+  ![Mobile View.gif](https://github.com/Alex-dll/Pokedex/blob/master/src/assets/Mobile%20View.gif?raw=true)
+</div>
 
 ## Run Locally
 
