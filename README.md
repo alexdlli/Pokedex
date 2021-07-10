@@ -7,8 +7,8 @@
 - To visualization the app you need click [**Here**](https://pokedex-five-weld.vercel.app/). 
 > #### Desktop Behavior![Desktop Behavior](https://github.com/Alex-dll/Pokedex/blob/master/src/assets/desktop%20View.gif?raw=true)
 
->#### Mobile Behavior
-> <div align="center">
+#### Mobile Behavior
+<div align="center">
   ![Mobile View.gif](https://github.com/Alex-dll/Pokedex/blob/master/src/assets/Mobile%20View.gif?raw=true)
 </div>
 
